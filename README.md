@@ -1,0 +1,1 @@
+# Este proycto tiene como objetivo automatizar la creación del Estado de Resultados (EdoResult) mensual.
